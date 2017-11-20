@@ -23,6 +23,15 @@
 		* Themes (Jekyll)
 		* linking to other pages
 
+	
+## Figshare
+* Basic introduction to figshare
+	* For larger data (and larger file sizes)
+	* Give data a DOI (useful for citations)
+	* Free
+	* Unimelb account is better
+
+
 
 ## Python and R (and Matlab?)
 
