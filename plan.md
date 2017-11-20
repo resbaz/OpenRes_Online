@@ -9,6 +9,10 @@
 * GitHub Basics
 	* Account
 	* Repo
+		* readme (what this is/contains)
+		* data (making sure credit/source is included)
+		* code (commented)
+		* explanation (written text, containing motivation for project, analysis/interpretation of code results and any inferences/conclusions)
 	* Uploading files
 		* Show git versioning
 	* Store and Share Code
@@ -32,7 +36,7 @@
 	* Unimelb account is better
 
 
-## Python and R (and Matlab?)
+## Python, R and Matlab
 * Basic idea that markdown, as above, supported and used by these other coding environments too.
 * Or, taking it further, can generate a file, such as HTML, that can live on github and be easily viewed.
 
@@ -52,6 +56,11 @@
 * Knitr + Code insertions -> HTML files
 * Notebook (?)
 * Slides and other Magic (?!)
+
+
+### Matlab
+* [Publish Matlab code](https://au.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
+* [Markup language](https://au.mathworks.com/help/matlab/matlab_prog/marking-up-matlab-comments-for-publishing.html)
 
 
 ## Going Further
